@@ -11,19 +11,16 @@ public class PassByValue {
         Index hello = new Index();
         hello.name = "sachin";
 
-        SecondClass k = new SecondClass();
-        k.lName = "charles";
-        System.out.println(t + "  " + hello.name + " " + k.lName + " " + "one");
+        System.out.println(t + "  " + hello.name + " " + "one");
 
-        Changer(t, hello, k);  
-        System.out.println(t + "  " + hello.name + " " + k.lName+ " " +"two");
+        Changer(t, hello);
+        System.out.println(t + "  " + hello.name + " " + "two");
     }
 
-    public static void Changer(String t, Index hello, SecondClass k) {
+    public static void Changer(String t, Index hello) {
         t = "Kohli";
         hello.name = "sam";
-        k.lName = "russell";  
-        System.out.println(t + " " + hello.name + " " + k.lName+ " " + "three");
+        System.out.println(t + " " + hello.name + " " + "three");
 
     }
 }

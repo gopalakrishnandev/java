@@ -58,3 +58,5 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 
 1. primitive - primitives are immutable, when the copied value gets changed, the original is not affected.
 2. Copying object reference -objects are not immutable,changing the object with copied reference is changing the object.
+
+# if else
