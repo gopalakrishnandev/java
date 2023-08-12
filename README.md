@@ -34,3 +34,8 @@ non-primitive (non-primitive types starts with an uppercase letter.)
    byte -> short -> char -> int -> long -> float -> double
 2. Narrowing Casting (manually) - converting a larger type to a smaller size type
    double -> float -> long -> int -> char -> short -> byte
+
+# Array
+
+1. type[] name = {value, value};
+2. index starts from 0
