@@ -39,3 +39,9 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 
 1. type[] name = {value, value};
 2. index starts from 0
+
+# Object
+
+1. first need to create class
+2. create an object with new keyword and specified class
+3.
