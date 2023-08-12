@@ -5,5 +5,6 @@ public class StringType {
         // String is non-primitive type and we can use methods
         String name = "good Morning";
         System.out.println(name.toUpperCase());
+
     }
 }

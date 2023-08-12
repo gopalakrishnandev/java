@@ -8,6 +8,11 @@
 
 # static members
 
+# data type
+
+1. primitive type - immutable
+2. non-primitive type - muttable (String, Array, Class...)
+
 # basic math operators
 
 # Arithmetic operators
@@ -44,4 +49,12 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 
 1. first need to create class
 2. create an object with new keyword and specified class
-3.
+3. object contains primitive value and non primitive
+4. object contains objects
+
+# Stack and heap
+
+# PassbyValue
+
+1. primitive - primitives are immutable, when the copied value gets changed, the original is not affected.
+2. Copying object reference -objects are not immutable,changing the object with copied reference is changing the object.
