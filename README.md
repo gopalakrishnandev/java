@@ -60,3 +60,11 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 2. Copying object reference -objects are not immutable,changing the object with copied reference is changing the object.
 
 # if else
+
+# Methods
+
+1. return type
+2. invoke method
+3. argument list must match with argument list
+
+# access modifiers
