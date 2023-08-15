@@ -68,3 +68,8 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 3. argument list must match with argument list
 
 # access modifiers
+
+1. public -Access anywhere within the program
+2. private -Access anywhere in the same class
+3. protected -Access anywhere the same package and its subclasses outside the package
+4. default -Access anywhere within the same package
