@@ -73,3 +73,25 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 2. private -Access anywhere in the same class
 3. protected -Access anywhere the same package and its subclasses outside the package
 4. default -Access anywhere within the same package
+
+# string methods
+
+1. length
+2. charAt
+3. indexOf
+4. substring
+5. toUpperCase
+6. trim
+
+# string immutablity
+
+# comparing string
+
+==, equals
+
+# string builders
+
+1. append
+2. insert
+3. delete
+4. replace

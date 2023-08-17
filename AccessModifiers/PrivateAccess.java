@@ -6,7 +6,8 @@ public class PrivateAccess {
 
     private double weight;
 
-    private void getAge(int age) {
+    private void getAge() {
         System.out.println(age);
     }
+
 }
