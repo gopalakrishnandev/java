@@ -98,7 +98,7 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 
 # OOP ---> important
 
-1. Inheritance
+1. Inheritance => signle, multilevel, hierarchical with extend keyword
 2. Encapsulation
 3. Abstraction
 4. Polymorphism
