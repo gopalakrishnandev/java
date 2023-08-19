@@ -1,7 +1,7 @@
 package com.example.OOP;
 
 public class Animal {
-    public String name;
+    public static String name;
     public int age;
     public String gender;
     public Double price;
@@ -13,4 +13,5 @@ public class Animal {
     public void setAge(int age) {
         System.out.println(age);
     }
+
 }

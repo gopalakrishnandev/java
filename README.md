@@ -98,7 +98,11 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 
 # OOP ---> important
 
-1. Inheritance => signle, multilevel, hierarchical with extend keyword
-2. Encapsulation
-3. Abstraction
-4. Polymorphism
+1. Inheritance - signle, multilevel, hierarchical with extend keyword
+2. Encapsulation - grouping data with methods in a class and prevent direct access from outside
+3. Abstraction -only show essential detail,hide all other details
+   Interface - shown outside class
+   Implementation - hidden from outside
+4. Polymorphism -
+   Dynamic polymorphism
+   Static polymorphism- 1.many methods with same name&different arguments in the same class or method overloading

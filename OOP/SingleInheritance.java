@@ -5,6 +5,7 @@ class SingleInheritance extends Animal {
     void bark() {
         System.out.println("barking...");
     }
+
 }
 
 class TestInheritance {
@@ -12,5 +13,6 @@ class TestInheritance {
         SingleInheritance d = new SingleInheritance();
         d.bark();
         d.setAge(3);
+
     }
 }
