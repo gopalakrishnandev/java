@@ -5,8 +5,13 @@ public class Car {
     String name;
     String description;
 
-    public Car(String name, String description) {
+    public Car(String name) {
         this.name = name;
+
+    }
+
+    public Car(String name, String description) {
+        this(name);
         this.description = description;
 
     }
