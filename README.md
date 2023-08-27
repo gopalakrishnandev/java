@@ -106,3 +106,7 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 4. Polymorphism -
    Dynamic polymorphism
    Static polymorphism- 1.many methods with same name&different arguments in the same class or method overloading
+
+# super and this
+
+# constructors and inheritance
