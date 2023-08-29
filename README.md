@@ -110,3 +110,5 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 # super and this
 
 # constructors and inheritance
+
+# enums

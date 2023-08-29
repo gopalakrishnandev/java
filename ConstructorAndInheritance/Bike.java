@@ -2,7 +2,7 @@ package com.example.ConstructorAndInheritance;
 
 public class Bike {
 
-    public Bike(String name) {
+    public Bike() {
         System.out.println("bike class constructor");
     }
 }
