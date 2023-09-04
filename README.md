@@ -112,3 +112,5 @@ non-primitive (non-primitive types starts with an uppercase letter.)
 # constructors and inheritance
 
 # enums
+
+# interface

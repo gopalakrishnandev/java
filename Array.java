@@ -34,6 +34,5 @@ public class Array {
                 System.out.println(myNumbers[i][j]);
             }
         }
-
     }
 }
